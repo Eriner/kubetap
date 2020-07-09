@@ -8,6 +8,7 @@
 [![Latest release][shield-latest-release]][latest-release]
 [![Go version][shield-go-version]][go-version]
 [![License][shield-license]][license]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEriner%2Fkubetap.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEriner%2Fkubetap?ref=badge_shield)
 
 ## What is Kubetap?
 
@@ -155,3 +156,7 @@ This project was created to compliment the [Soluble platform][soluble].
 [video]: https://www.youtube.com/watch?v=hBroFtlxvkM
 [building-kubetap]: https://www.soluble.ai/blog/building-kubetap
 [kubectl-plugin]: https://kubernetes.io/docs/tasks/extend-kubectl/kubectl-plugins/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEriner%2Fkubetap.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FEriner%2Fkubetap?ref=badge_large)
